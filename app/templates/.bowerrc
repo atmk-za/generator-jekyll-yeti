@@ -1,0 +1,3 @@
+{
+    "directory": "<%= main_folder %>/bower_components"
+}

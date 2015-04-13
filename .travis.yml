@@ -1,0 +1,6 @@
+language: node_js
+node_js:
+  - '0.10'
+before_install:
+  - currentfolder=${PWD##*/}
+  - if [ "$currentfolder" != 'generator-jekyll-yeti' ]; then cd .. && eval "mv $currentfolder generator-jekyll-yeti" && cd generator-jekyll-yeti; fi
