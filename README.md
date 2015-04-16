@@ -7,11 +7,11 @@
 
 ### Dependencies
 
-NodeJs
+[NodeJs](https://nodejs.org/) *tested v0.10.38*
 
-Ruby
+[Ruby](https://www.ruby-lang.org) *tested v2.1.4*
 
-Jekyll
+[Jekyll](http://jekyllrb.com/) *tested v2.5.3*
 
 ### Install Yo
 
@@ -32,6 +32,10 @@ Finally, change into your project directory and initiate the generator :
 ```bash
 yo jekyll-yeti
 ```
+
+## Screen
+
+![Screenshot](https://github.com/atmk-za/generator-jekyll-yeti/blob/master/screen.png)
 
 ## Notes
 

@@ -1,5 +1,5 @@
 {
-    "name": "<%= site_name %>",
+    "name": "<%= pkg_name %>",
     "description": "<%= site_description %>",
     "version": "0.0.0",
     "private": true,

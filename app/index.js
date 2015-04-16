@@ -1,6 +1,4 @@
 'use strict';
-var util = require('util');
-var path = require('path');
 var yeoman = require('yeoman-generator');
 var chalk = require('chalk');
 var moment = require('moment');
@@ -80,6 +78,7 @@ var JekyllAndYeti = yeoman.generators.Base.extend({
 
 		var context = {
 			site_name: this.siteName,
+			pkg_name: this.siteName.replace(/\s+/g, '-').toLowerCase(),
 			author_email: this.email,
 			site_description: this.description,
 			main_folder: this.mainFolder,
