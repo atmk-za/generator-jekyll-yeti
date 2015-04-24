@@ -35,7 +35,7 @@ yo jekyll-yeti
 
 ## Screen
 
-![Screenshot](https://github.com/atmk-za/generator-jekyll-yeti/blob/master/screen.png)
+![Screenshot](http://atmk-za.github.io/screen.png)
 
 ## Notes
 
@@ -84,6 +84,11 @@ Build final optimized site (from `jekyll/_site`) into the `/dist` folder: `grunt
 Yeoman has a heart of gold. He's a person with feelings and opinions, but he's very easy to work with. If you think he's too opinionated, he can be easily convinced.
 
 If you'd like to get to know Yeoman better and meet some of his friends, [Grunt](http://gruntjs.com) and [Bower](http://bower.io), check out the complete [Getting Started Guide](https://github.com/yeoman/yeoman/wiki/Getting-Started).
+
+
+## Credit
+
+A lot of the Foundation parts of this generator are inspired by Julian Cwirko's great [ZF5 generator](https://github.com/juliancwirko/generator-zf5), my goto for starting quick Foundation projects.
 
 
 ## License
