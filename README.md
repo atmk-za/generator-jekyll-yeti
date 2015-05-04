@@ -13,6 +13,10 @@
 
 [Jekyll](http://jekyllrb.com/) *tested v2.5.3*
 
+### Foundation
+
+Tested with latest version 5.5.2
+
 ### Install Yo
 
 ```bash
